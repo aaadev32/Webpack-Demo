@@ -1,0 +1,5 @@
+.hello {
+    color: red;
+    background: url('./dog.jpg');
+    font-family: 'Courier New', Courier, monospace;
+  }
